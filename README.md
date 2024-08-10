@@ -49,5 +49,5 @@ For future projects, I plan to:
 
 ## Author
 
-- Frontend Mentor: [Your Profile](https://www.frontendmentor.io/profile/abm-19)
+- Frontend Mentor: [Abrham](https://www.frontendmentor.io/profile/abm-19)
 
