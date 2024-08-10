@@ -19,8 +19,7 @@ The challenge is to build a social links profile card using HTML and CSS. The de
 
 ### Links
 
-- Solution URL: [Your Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-UG32l9m6dQ)
-- Live Site URL: [Your Live Site URL](#)
+- Live Site URL: [Your Live Site URL](https://abm-19.github.io/Social-links-profile/)
 
 ## My Process
 
