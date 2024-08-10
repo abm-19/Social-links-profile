@@ -19,7 +19,7 @@ The challenge is to build a social links profile card using HTML and CSS. The de
 
 ### Links
 
-- Live Site URL: [Your Live Site URL](https://abm-19.github.io/Social-links-profile/)
+- Live Site URL: [Live](https://abm-19.github.io/Social-links-profile/)
 
 ## My Process
 
