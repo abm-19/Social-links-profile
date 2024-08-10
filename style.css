@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    background-color: hsl(0, 0%, 8%);
+    height: 100vh; 
+    width: 100vw;  
+    margin: 0; 
+    padding: 20px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    box-sizing: border-box; 
+}
+
+.box {
+    background-color: hsl(0, 0%, 12%);
+    height: 500px; 
+    width: 300px;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+h2{
+    font-family: 'inter';
+    color: hsl(0, 0%, 100%);
+}
+.lon{
+    color: gold;
+    text-align: center;
+    font-family: 'Inter', 'sans-serif';
+    font-size: 10px;
+    position: relative;
+    top: -25px;
+}
+p{
+    color:hsl(0, 0%, 60%);
+    position: relative;
+    top: -19px;
+    font-size: 14px;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 50px;
+    margin: 0 auto;
+}
+.social-box{
+    background-color: hsl(0, 0%, 27%); 
+    border: 1px solid hsl(0, 0%, 10%); 
+    padding: 10px; 
+    display: inline-block; 
+    width: 230px;
+    font-family: 'Inter',serif;
+    text-align: center; 
+    border-radius: 10px; 
+    color: white;
+    text-decoration: none;
+    transition: border-color 0.3s, background-color 0.3s, transform 0.3s;
+}
+.social-box:hover {
+    background-color: gold;
+    border-color:gold;
+    transform: translateX(-10px);
+}
+.social-box a:hover {
+    color: #064d99;
+}
+footer.attribution {
+    background-color: hsl(0, 0%, 12%);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+footer .last{
+    color: gold;
+}
+footer .last:hover{
+    color: rgb(75, 105, 80);
+}
